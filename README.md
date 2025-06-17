@@ -1,2 +1,2 @@
 MergeFetcher
-Analyze your project`s MRs
+Analyze your project`s MRs through telegram
